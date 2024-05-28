@@ -1,0 +1,35 @@
+# NetflixGPT
+
+- Create React App
+- Configured Tailwind CSS
+- Header
+- Routing
+- Login Form
+- Sign Up
+- Form Validation
+- useRef Hook
+- firebase setup
+- deployed
+- Sign Up a user
+- Implemented Sign In
+- Created redux store for the user
+- Authentication complete
+- If user is logged in he can't go to login page without logout and vice versa
+- Unsubscribe to onAuthStateChanged callback
+- Added hardcoded values into constant file
+- Register TMDB Api and create an app and get access token
+- Get data from Now Playing movies from movie list
+- Custom hook for now playing movies
+- Create movies silce
+- Created MainContainer
+- Create Video Title and Video Container
+- FetchData For Trailer Video
+- Embedded youtube video
+- Build MovieList
+- Build MovieCard
+- Made custom hooks for different type of movies
+- GPT Search Bar
+- Made GPT Movies Suggestion Component
+- Used Gemini API to fetch the movies list
+- Made whole GPT Search Page
+- Secured all the key using env file
